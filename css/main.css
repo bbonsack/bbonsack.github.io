@@ -1,0 +1,17 @@
+#contents{
+	background-color:blue;
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 0 5%;
+
+}
+a{
+	text-decoration:none;
+}
+ul{
+	list-style: none;
+}
+#logo{
+	text-align:left;
+	margin:0;
+}
