@@ -5,6 +5,7 @@
 	margin: 0 auto;
 	padding: 0 5%;
 
+
 }
 a{
 	text-decoration:none;
@@ -111,4 +112,14 @@ Portfolio Page
 	padding: 5%;
 	font-size:0.75em;
 	color: #bdc3c7;
+}
+/*******************
+About Page
+*******************/
+.profile-picture{
+	display: block;
+	max-width: 150px;
+	margin: 0 auto 30px; /* Margin+ display:block similar to text-align */
+	border-radius: 100%;
+}
 }
