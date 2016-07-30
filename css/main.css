@@ -1,5 +1,6 @@
+@import 'https://fonts.googleapis.com/css?family=Montserrat';
 #contents{
-	background-color:blue;
+	background-color:#90A4AE;
 	max-width: 940px;
 	margin: 0 auto;
 	padding: 0 5%;
@@ -12,6 +13,38 @@ ul{
 	list-style: none;
 }
 #logo{
+	font-family: 'Montserrat',sans-serif;
 	text-align:left;
 	margin:0;
 }
+h1{
+	margin: 15px 0;
+	font-size: 1.75em;
+	font-weight: normal;
+	line-height: 0.8em;
+}
+body{
+	color:#607D8B;
+}
+nav{
+	text-align: left;
+	padding: 10px 0;
+	margin: 20px 0;
+	font-size: 0.75em;
+
+}
+header{
+	background-color: #00695C;
+}
+footer{
+	font-size:0.75em;
+	text-align: center;
+	padding-top: 50px;
+}
+nav a, nav a:visited{
+	color:#fff;
+}
+nav a.selected{
+	background-color: #00897B;
+}
+/* nav a:hover{ change text color to show hover good for desktop */
